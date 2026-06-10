@@ -1,0 +1,1 @@
+"""FOODTRUCK backend package."""
